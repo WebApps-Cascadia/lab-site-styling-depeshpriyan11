@@ -56,7 +56,7 @@ header{
 
 header h1,
 header h2{
-  font-family:Garamond,serif;
+  font:12pt Georgia,"Times New Roman",Times,serif;
 }
 
 header h1{
